@@ -1,16 +1,2 @@
 # PHP
-readmi 
-proba greshka
-raboti
-
-днес е 16.7.2015
-ааяижяа
-иае
-иаеааи
-frtjfrtjfsdj
-trjrd
-jdrj
-dfj
-drjdrj
-drggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-b rt ergt etg se gfest ert esrgtesr gter gtesrter t
+първа проба 16.7.2015
