@@ -21,6 +21,8 @@ $first_arr[] = "филми";
 $first_arr[] = "ра";
 $first_arr[] = "бягство";
 
+
+
 /*
 echo "<p>" . $first_arr[3] . "</p>";
 echo "<p>" . $first_arr[4] . "</p>";
