@@ -1,0 +1,8 @@
+<?php
+
+if (count(S_POST)>0)
+{
+}move_uploaded_file($_FILES[''])
+form method=POST enctype="multipart/from-data">
+
+?>
