@@ -12,6 +12,8 @@
 	for($i = 0; $i < $size; $i++){
 		echo "<p>Искам да си купя " . $cars_array[$i] . "!</p>";
 	}
+
+    echo "----------------------<br />";
 	
 	$cars[] = array_pop($cars_array);
 	
