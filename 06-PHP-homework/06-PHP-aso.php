@@ -13,9 +13,9 @@
 		"kycera" => "www.kyocera.eu",
 		"lexmark" => "https://www.lexmark.com",
 		"toshiba" => "www.toshiba.bg");
-	shuffle($firm);
+	//shuffle($firm);
 	foreach($firm as $key => $value){
-	echo " ".$value."<br>";
+	   echo "<a href='$value'>".$key."</a><br>";
 	}
 ?>
 
